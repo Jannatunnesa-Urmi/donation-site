@@ -154,3 +154,48 @@ p{
 .plan-option .education{
     background: #FFF4D6;
 }
+.update-section{
+    padding-bottom: 60px;
+}
+.update-section .update-content{
+    max-width: 690px;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.update-content p{
+    color: #707070;
+}
+.update-content h2{
+    margin-bottom: 20px;
+}
+.update-section .newsletter-area{
+    background-color: #FFF4D6;
+    max-width: 809px;
+    height: 200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.newsletter-area form{
+    display: flex;
+    width: 60%;
+}
+.newsletter-area form input{
+    width: 100%;
+    background: #D9D9D9;
+    border: 1px solid #D9D9D9;
+    border-radius: 5px 0px 0px 5px;
+    padding: 14px;
+}
+.newsletter-area form input:focus{
+    outline: none;
+}
+.newsletter-area form button{
+    color: #fff;
+    padding: 14px 40px;
+    background: #FF5959;
+    border: 1px solid #FF5959;
+    border-radius: 0px 5px 5px 0px;
+}
