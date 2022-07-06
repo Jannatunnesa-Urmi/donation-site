@@ -154,6 +154,32 @@ p{
 .plan-option .education{
     background: #FFF4D6;
 }
+.live-section{
+    padding-bottom:60px;
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+    
+}
+.half-width p{
+    color: #707070;
+    margin-bottom: 50px;
+}
+.half-width a{
+    padding: 12px 16px;
+    background: #FF5959;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+ #need {
+    padding-left: 0%;
+    max-width: 700px;
+    margin-right: 120px;
+}
+
 .help-section{
     padding-bottom: 60px;
 }
